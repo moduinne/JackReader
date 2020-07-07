@@ -1,0 +1,14 @@
+def runProram():
+    inp = input("path: ")
+    numb = 0
+    if inp != "quit":
+        print(len(obtainTables(inp)))
+        while numb < len(obtainTables(inp)):
+            table = returnTableRowList(obtainTables(inp)[numb])[0]
+            print(returnNumColDictionary(table))
+            numb += 1
+    if inp == "q":
+        exit()
+
+while q:
+    runProram()

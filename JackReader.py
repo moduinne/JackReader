@@ -41,5 +41,4 @@ def returnNumColDictionary(table):
 
 for i in obtainTables("Mock.docx"):
     print(returnTableRowList(i))
-    #print (i)
 
