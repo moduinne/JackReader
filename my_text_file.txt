@@ -1,0 +1,664 @@
+CLIENT NAME:  David Kendle 
+
+File Note: Review Portfolio		As at 06 July 2020
+
+
+
+Based on Investment Strategy dated: 17/04/2020  SMSFs must have IS on FILE 
+
+
+
+Asset Class
+
+Minimum
+
+Agreed
+
+Maximum
+
+Australian Equities
+
+27.00%
+
+37.00%
+
+47.00%
+
+International Equities
+
+26.00%
+
+36.00%
+
+46.00%
+
+Property
+
+0.00%
+
+2.00%
+
+10.00%
+
+Alternative Income
+
+0.00%
+
+0.00%
+
+0.00%
+
+Fixed Interest 
+
+5.00%
+
+15.00%
+
+25.00%
+
+Cash
+
+0.00%
+
+8.00%
+
+18.00%
+
+
+
+Asset Class
+
+Quantity
+
+Price
+
+Market Value
+
+Gain / (Loss)
+
+1234567 (Panorama) – David Kendle
+
+International Equity
+
+345,710.50
+
+$0.93
+
+$454,260.80
+
+$(28,879.36)
+
+International Fixed Interest
+
+12,291.30
+
+$1.00
+
+$12,229.85
+
+$229.85
+
+Domestic Cash
+
+33,045.34
+
+$1.00
+
+$33,045.34
+
+$0.00
+
+Domestic Fixed Interest
+
+109,819.44
+
+$97.35
+
+$195,928.38
+
+$32,876.38
+
+Domestic Property
+
+34,409.04
+
+$0.84
+
+$50,030.15
+
+$(2,804.92)
+
+Blended
+
+26,189.44
+
+$1.11
+
+$29,161.94
+
+$(838.06)
+
+Domestic Equity
+
+103,403.54
+
+$9.26
+
+$691,947.71
+
+$36,955.97
+
+Total for 1234567 (Panorama) – David Kendle:
+
+$1,466,604.17
+
+$37,539.86
+
+
+
+Current Portfolio as of 06 July 2020
+
+
+
+Product
+
+Quantity
+
+Price
+
+Market Value
+
+Gain / (Loss)
+
+IS & JS MENZIES SUPERANNUATION FUND
+
+1234567 (Panorama) – David Kendle
+
+Blended
+
+Schroder Real Return CPI +5% Fund - Wholesale Class
+
+26,189.44
+
+$1.11
+
+$29,161.94
+
+$(838.06)
+
+Total for Blended:
+
+$29,161.94
+
+$(838.06)
+
+Domestic Cash
+
+Cash Management Account
+
+70,562.96
+
+$1.00
+
+$70,562.96
+
+$0.00
+
+Total for Domestic Cash:
+
+$30,562.96
+
+$0.00
+
+Domestic Equity
+
+AB Managed Volatility Equities Fund
+
+14,949.47
+
+$1.60
+
+$23,947.56
+
+$(1,052.44)
+
+Amcor PLC (AMC)
+
+2,570.00
+
+$15.25
+
+$39,192.50
+
+$(2,904.10)
+
+Bendigo and Adelaide Bank Limited (BEN)
+
+3,655.00
+
+$7.00
+
+$25,585.00
+
+$(10,087.55)
+
+BHP Group Limited (BHP)
+
+2,316.00
+
+$36.26
+
+$83,978.16
+
+$(56,063.48)
+
+Coca-Cola Amatil Limited (CCL)
+
+1,921.00
+
+$8.90
+
+$17,096.90
+
+$(4,097.82)
+
+Allan Gray Australia Equity Fund - Class A
+
+14,974.54
+
+$1.30
+
+$19,484.88
+
+$(5,515.12)
+
+Incitec Pivot Limited (IPL)
+
+8,996.00
+
+$1.93
+
+$17,362.28
+
+$(13,494.00)
+
+OC Premium Small Companies Fund
+
+7,726.78
+
+$2.97
+
+$22,969.40
+
+$(2,030.60)
+
+Rio Tinto Limited (RIO)
+
+450.00
+
+$96.39
+
+$43,375.50
+
+$8,905.50
+
+Suncorp Group Limited (SUN)
+
+3,152.00
+
+$9.26
+
+$29,187.52
+
+$(4,773.46)
+
+Spheria Australian Microcap Fund
+
+22,818.55
+
+$0.90
+
+$20,637.09
+
+$(4,362.91)
+
+Total for Domestic Equity:
+
+$342,816.79
+
+$(95,475.98)
+
+Domestic Fixed Interest
+
+Pendal Monthly Income Plus Fund
+
+11,238.05
+
+$1.05
+
+$11,792.09
+
+$(207.91)
+
+Commonwealth Bank of Australia (CBAPI)
+
+400.00
+
+$97.35
+
+$38,940.00
+
+$(1,060.00)
+
+Challenger Limited (CGFPB)
+
+400.00
+
+$99.50
+
+$39,800.00
+
+$34,748.00
+
+Janus Henderson Tactical Income Fund
+
+11,113.17
+
+$1.10
+
+$12,232.27
+
+$232.27
+
+Total for Domestic Fixed Interest:
+
+$102,764.36
+
+$33,712.36
+
+Domestic Property
+
+Charter Hall Maxim Property Securities Fund
+
+23,305.68
+
+$0.84
+
+$19,630.37
+
+$(5,369.63)
+
+Total for Domestic Property:
+
+$19,630.37
+
+$(5,369.63)
+
+International Equity
+
+Antipodes Global Investment Company Ltd (APL)
+
+38,100.00
+
+$0.93
+
+$35,433.00
+
+$(13,335.00)
+
+Talaria Global Equity Fund - Wholesale Units
+
+51,722.25
+
+$0.87
+
+$44,874.22
+
+$(5,125.78)
+
+Magellan Wholesale Plus Global Fund
+
+28,018.51
+
+$1.83
+
+$51,187.01
+
+$1,187.01
+
+GQG Partners Emerging Markets Equity Fund
+
+26,134.24
+
+$1.33
+
+$34,716.73
+
+$2,516.73
+
+Future Generation Global Investment Company Limited (FGG)
+
+16,304.00
+
+$1.18
+
+$19,157.20
+
+$1,996.85
+
+Maple-Brown Abbott Global Listed Infrastructure
+
+17,836.73
+
+$1.72
+
+$30,745.17
+
+$(4,254.83)
+
+Pengana Global Small Companies Fund
+
+35,133.36
+
+$1.37
+
+$48,304.86
+
+$(1,695.14)
+
+P.M. Capital Global Companies Fund
+
+15,605.54
+
+$2.83
+
+$44,232.33
+
+$(5,767.67)
+
+Antipodes Wholesale Plus Global Fund
+
+36,636.41
+
+$1.16
+
+$42,670.42
+
+$(2,329.58)
+
+Total for International Equity:
+
+$351,320.94
+
+$(26,807.41)
+
+International Fixed Interest
+
+PIMCO Wholesale Plus Diversified Fixed Interest Fund
+
+12,291.30
+
+$1.00
+
+$12,229.85
+
+$229.85
+
+Total for International Fixed Interest:
+
+$12,229.85
+
+$229.85
+
+Total for 1234567 (Panorama) – David Kendle:
+
+$918,487.21
+
+$(94,548.87)
+
+
+
+Broker details – for ASX listed investments
+
+Account
+
+Broker
+
+Account Number
+
+Main
+
+Ord Minnett
+
+
+
+
+
+Managed Fund changes
+
+From
+
+To
+
+$s
+
+Comments
+
+
+
+Solaris Equity Long Short Fund
+
+$40,000.00
+
+New Fund
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pension Details (Age 65)
+
+Member
+
+Estimated
+
+Entitlement
+
+As at 30 June 2019
+
+Minimum Pension %
+
+Minimum
+
+Pension
+
+Drawdown 
+
+to date.
+
+To draw
+
+by 30 June
+
+David Kendle
+
+$900,000
+
+2.50%
+
+$22,500
+
+$0.00
+
+$22,500
+
+
+
+Cash Management – (delete what is not applicable)
+
+Distributions
+
+Reinvest (default for accumulation)
+
+Retain in cash (default for drawdown / pension)
+
+ 
+
+
+
+
+CSA – (delete what is not applicable)
+
+Required – Advice Review 
+
+		Current Fee $3000 REVISE TO $ $4,000			  AR only 
+
+
+
+Compliance
+
+FSG Version 12: 1 November 2018  
+
+Planner Profile date   14/10/2019 should be 14 Oct 2019 xxx 
+
+Fact Find dated: 05/02/2019 
+
+-  Details to be updated / confirmed & updated in xplan 
+
+
+
+
+
+Review Schedule
+
+
+
+Last Review
+
+01/07/2019
+
+Next Review
+
+01/07/2020
