@@ -28,10 +28,6 @@ def returnTableRowList(table):
         data.append(row_data)
     return data
 
-#TODO
-def returnColHeadings(data):
-    return data[0]
-
 def returnNumColDictionary(table):
     heads = []
     td = {}
@@ -43,63 +39,7 @@ def returnNumColDictionary(table):
         col += 1
     return td
 
-print(obtainTables("Mock.docx")[0])
-q = True
-
-def runProram():
-    inp = input("path: ")
-    numb = 0
-    if inp != "quit":
-        print(len(obtainTables(inp)))
-        while numb < 10:#len(obtainTables(inp)):
-            table = returnTableRowList(obtainTables(inp)[numb])#[0]
-            print(returnNumColDictionary(table))
-            numb += 1
-    if inp == "quit":
-        exit()
-
-while q:
-    runProram()
-    
-
-    
-
-
-
-
-
-
-
-
-
-
-    
-
-
-#print(table)
-
-#print(obtainText2("test.docx")[0])
-
-
-
-
-###################################################################################
-####################THIS IS THE DOCX2TXT VERSION###################################
-###################################################################################
-
-#import docx2txt
-#my_text = docx2txt.process("test.docx")
-#f = open("my_text_file.txt", "w")
-#f.write(my_text)
-#f.close()
-
-#f = open("my_text_file.txt","r")
-#line = f.readline()
-#lineNum = 0
-#while line != "":
-#    print(str(lineNum) + ": " + line.strip())
-#    line = f.readline()
-#    lineNum += 1
-
-    
+for i in obtainTables("Mock.docx"):
+    print(returnTableRowList(i))
+    #print (i)
 
